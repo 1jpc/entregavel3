@@ -1,5 +1,5 @@
 # entregavel3
-Entregavel 3 - Paulo Victor Costa
+Entregavel 3 - Joao Pedro
 
 ![image](https://user-images.githubusercontent.com/19437996/200448793-ffd7a8c7-a47f-4c09-8f64-69bf7724604b.png)
 
